@@ -1,0 +1,15 @@
+{
+  "express": {
+    "port": 3000
+  },
+  "logger" : {
+    "timestamp": true,
+    "filename": "logs/run.log",
+    "level": "silly",
+    "colorize": true
+  },
+  "util_options" : {
+    "showHidden": true,
+    "depth": null
+  }
+}
